@@ -1,0 +1,7 @@
+('human_prefix', 'Human')
+('ai_prefix', 'AI')
+('buffer', ['Human: Hello.\nAI: Hi there! How can I help you?', 'Human: search google for the top tennis player in the world?\nAI: According to Google search results, the top tennis players in the world are Novak Djokovic, Carlos Alcaraz, and Stefanos Tsitsipas.'])
+('memory_key', 'chat_history')
+('output_key', None)
+('input_key', None)
+('k', 5)
