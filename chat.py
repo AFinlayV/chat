@@ -1,6 +1,6 @@
 """
 A basic Chatbot using LangChain, capable remembering conversations and looking up information via API calls.
-I would like to incorporate david shapiros code for the memory, and embeddings
+I would like to incorporate david shapiros code for the memory, and embeddings rather than langchain's memory.
 """
 
 from langchain.llms import OpenAI
